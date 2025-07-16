@@ -1,0 +1,101 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 3 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+/NeedAppearances true
+>>
+endobj
+3 0 obj
+<<
+/Contents 7 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 1 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Type /Action
+/S /JavaScript
+/JS (app.alert('XSS Payload from PDF!');)
+>>
+endobj
+5 0 obj
+<<
+/JavaScript <<
+/Names [ (a85a84e3\055bfd1\05543a5\055a154\05523c4855c31f6) 4 0 R ]
+>>
+>>
+endobj
+6 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/AcroForm 2 0 R
+/OpenAction 4 0 R
+/Names <<
+/JavaScript <<
+/Names [ (a85a84e3\055bfd1\05543a5\055a154\05523c4855c31f6) 4 0 R ]
+>>
+>>
+>>
+endobj
+7 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 116
+>>
+stream
+GapQh0E=F,0U\H3T\pNYT^QKk?tc>IP,;W#U1^23ihPEM_?CW4KISi90MjG^2,FS#<R;"jEDqZ!%TWj+XN\d^9Mob#c-=j>#g#sMd/rQ1huWo,it\*~>
+endstream
+endobj
+8 0 obj
+<<
+/F1 9 0 R
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000074 00000 n 
+0000000136 00000 n 
+0000000335 00000 n 
+0000000427 00000 n 
+0000000534 00000 n 
+0000000716 00000 n 
+0000000923 00000 n 
+0000000954 00000 n 
+trailer
+<<
+/Size 10
+/Root 6 0 R
+/Info 2 0 R
+>>
+startxref
+1061
+%%EOF
